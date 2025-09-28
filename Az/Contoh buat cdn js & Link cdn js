@@ -1,4 +1,9 @@
-CONTOH BUAT CDN js : https://cdn.jsdelivr.net/gh/aniebe/js@latest/Language.js
+CONTOH BUAT CDN js 1 : https://cdn.jsdelivr.net/gh/aniebe/js@latest/Language.js
+{Deskripsi : yang perlu di ubah (aniebe/js/Language.js)
 
+CONTOH BUAT CDN js 2 : https://cdn.jsdelivr.net/gh/aniebe/Aclub@latest/Login/Admin-area.js
+{Deskripsi : yang perlu di ubah (aniebe/repo/Aclub/Login/Admin-area.js)
+
+LINk DASAR : https://cdn.jsdelivr.net/gh/user/repo@version/file
 
 LINk : https://www.jsdelivr.com
